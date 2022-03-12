@@ -12,9 +12,8 @@ const Hero = () => (
         The Portfolio of Macrio Ramos  
       </SectionTitle>
       <SectionText>
-        My Purpose is to use my technologies skills that I have learned to improve and better assist the company that I join.
-      </SectionText>
-      <Button onClick={() => window.location = 'https://www.linkedin.com/in/marcio-ramos-708876209/'}>Contact Me</Button>
+      For what shall it profit a man, if he shall gain the whole world, and lose his own soul? "Matthew 16:26"      </SectionText>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/marcio-ramos-708876209/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );

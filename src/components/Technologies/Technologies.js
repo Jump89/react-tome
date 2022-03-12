@@ -1,11 +1,12 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiCodeBadge, DiFirebase, DiReact,} from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider/>
+    <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I have worked with a range of Front-End and Back-End Technologies in web development.
@@ -17,7 +18,12 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            React.js
+            React.js, HTML, HTML 5,
+            Cascading Style Sheets(CSS),
+            Bootstrap,
+            JavaScript,
+            JQuery,
+            ES6
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -27,17 +33,20 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node.js
+            Node.js GarphQL,
+            MySQL, NoSQL, Jest,
+            MongoDB, Sequelize,
+            Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size='3rem'/>
+        <DiCodeBadge size='3rem'/>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Tech</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            React.js
+            Git, Heroku , Progressive Web Applications, API interactions(API, JSON, AJAX)
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -46,3 +55,4 @@ const Technologies = () =>  (
 );
 
 export default Technologies;
+
