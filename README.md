@@ -30,7 +30,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 * MIT 
 
-
 ## Credits 
 
 * [Marcio Ramos]{https://github.com/Jump89}
@@ -58,7 +57,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Heroku Link
 
-* No Walk Through Video for this Application
+* (https://marcioportfolio.herokuapp.com/)
 
 ## Screen Shoot of Application
 
