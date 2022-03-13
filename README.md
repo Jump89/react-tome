@@ -20,7 +20,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Dependencies
 
-* [yarn.lock]https://classic.yarnpkg.com/lang/en/docs/yarn-lock/
+* N/A
 
 ## Installation
 
