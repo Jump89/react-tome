@@ -32,7 +32,7 @@ const Header = () =>  (
      </li>
    </Div2>
    <Div3>
-     <SocialIcons href="https://github.com/">
+     <SocialIcons href="https://github.com/Jump89">
         <AiFillGithub size="3rem"/>
      </SocialIcons>
      <SocialIcons href="https://www.linkedin.com/in/marcio-ramos-708876209/">

@@ -87,13 +87,13 @@ background: ${(props) => props.colorAlt ?
   margin: ${(props) => props.divider ? "4rem 0" : "" };
 
   @media ${(props) => props.theme.breakpoints.md} {
-    width: 48px;
-    height: 4px;
+    width: 300px;
+    height: 300px;
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    width: 32px;
-    height: 2px;
+    width: 300px;
+    height: 300px;
   }
 `
 

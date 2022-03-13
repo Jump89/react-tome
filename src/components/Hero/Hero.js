@@ -13,7 +13,7 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>
       For what shall it profit a man, if he shall gain the whole world, and lose his own soul? "Matthew 16:26"      </SectionText>
-      <Button onClick={() => window.location = 'https://www.linkedin.com/in/marcio-ramos-708876209/'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://s3.amazonaws.com/ixact-production-marketing-morris/wp-content/uploads/2018/03/Coming-Soon.jpg'}>View Resume</Button>
     </LeftSection>
   </Section>
 );
