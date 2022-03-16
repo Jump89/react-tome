@@ -36,12 +36,12 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Note Tacker',
-    description: "This application was created to make a Note-taker, a simple note taker with a few features such as create, save , edit and delete notes. This Application is start on the command-line. To access see instruction in code.",
-    image: '/images/note.png',
-    tags: ['HTML', 'Node.js', 'Express', 'Bootstrap'],
-    source: 'https://github.com/Jump89/its-the-notes-for-me',
-    visit: 'https://github.com/Jump89/its-the-notes-for-me',
+    title: 'Qrad',
+    description: "QRad allows you to maintain a list of people you've met in real life. Business cards are useful until you forget them, run out, or lose your new contact’s card. With QRad, you’re always ready to provide your contact information, and you always have a record of those you’ve met.Create your digital business card today",
+    image: '/images/qrad.png',
+    tags: ['React', 'Node.js', 'GraphQL', 'Apollo-GraphQL'],
+    source: 'https://salty-wave-44811.herokuapp.com/',
+    visit: 'https://github.com/hpurring/project-3-group-a',
     id: 4,
   },
   {
