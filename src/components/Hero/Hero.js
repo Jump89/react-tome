@@ -9,7 +9,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br/>
-        The Portfolio of Macrio Ramos  
+        The Portfolio of Marcio Ramos  
       </SectionTitle>
       <SectionText>
       For what shall it profit a man, if he shall gain the whole world, and lose his own soul? "Matthew 16:26"      </SectionText>
