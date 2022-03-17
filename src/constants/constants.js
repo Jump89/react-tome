@@ -39,7 +39,7 @@ export const projects = [
     title: 'Qrad',
     description: "QRad allows you to maintain a list of people you've met in real life. Business cards are useful until you forget them, run out, or lose your new contact’s card. With QRad, you’re always ready to provide your contact information, and you always have a record of those you’ve met.Create your digital business card today",
     image: '/images/qrad.png',
-    tags: ['React', 'Node.js', 'GraphQL', 'Apollo-GraphQL'],
+    tags: ['React', 'Node.js', 'GraphQL', 'Apollo'],
     source: 'https://salty-wave-44811.herokuapp.com/',
     visit: 'https://github.com/hpurring/project-3-group-a',
     id: 4,
